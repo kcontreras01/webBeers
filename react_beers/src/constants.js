@@ -1,0 +1,1 @@
+export const CLIENT_URL = 'https://morning-oasis-96903.herokuapp.com/beers/search/';
